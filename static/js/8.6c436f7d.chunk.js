@@ -1,0 +1,2 @@
+(this.webpackJsonp=this.webpackJsonp||[]).push([[8],{636:function(r,a,e){"use strict";e.r(a);var t=e(25),n=e(1),c=e(97),i=e(2);a.default=function(){var r=Object(t.b)();return Object(i.jsx)(SignIn,{color:n.k.HIGHLIGHTS[2],text:"Sign up",emailCallback:function(a,e){return r(Object(c.a)({email:a,password:e}))},serverError:"Error creating an account (that email may be in use already)"})}}}]);
+//# sourceMappingURL=8.6c436f7d.chunk.js.map
