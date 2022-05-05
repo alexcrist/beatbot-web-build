@@ -1,2 +1,0 @@
-(this.webpackJsonp=this.webpackJsonp||[]).push([[7],{637:function(t,n,a){"use strict";a.r(n);var r=a(25),e=a(1),o=a(96),c=a(2);n.default=function(){var t=Object(r.b)();return Object(c.jsx)(SignIn,{color:e.k.HIGHLIGHTS[1],text:"Log in",emailCallback:function(n,a){return t(Object(o.a)({email:n,password:a}))},serverError:"Could not find an account with that email / password"})}}}]);
-//# sourceMappingURL=7.8f30e042.chunk.js.map
